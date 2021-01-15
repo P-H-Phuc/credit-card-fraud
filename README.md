@@ -8,10 +8,10 @@ A credit card dataset contains a mix of fraud as well as non-fraudulent transact
 
   - [x] Logistic regression
   
-  - [x] Dicision trees
+  - [x] Decision trees
   
   - [x] Neural network or so
   
 ### Link download dataset
 
-Reference by `https://www.kaggle.com/mlg-ulb/creditcardfraud`
+Source: `https://www.kaggle.com/mlg-ulb/creditcardfraud`
