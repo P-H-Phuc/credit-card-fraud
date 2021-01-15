@@ -6,11 +6,9 @@ A credit card dataset contains a mix of fraud as well as non-fraudulent transact
 
 ### Algorithms to be used
 
-  - [x] Logistic regression
+  - [x] Isolation Forest
   
-  - [x] Decision trees
-  
-  - [x] Neural network or so
+  - [x] Local Outlier Factor
   
 ### Link download dataset
 
